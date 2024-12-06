@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define primary colors for your app -->
+    <color name="colorPrimary">#FFA500</color> <!-- Example color -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Example color -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Example color -->
+
+    <!-- Color for the enabled button background -->
+    <color name="button_background_color">#FF6200EE</color>
+
+    <!-- Color for the disabled button background -->
+    <color name="button_disabled_color">#CCCCCC</color>
+
+    <!-- Add the new color for the Submit button background -->
+    <color name="submit_button_background">#9B1CD1</color>
+    <color name="card2_background_color">#FF6200EE</color> <!-- Custom color for CardView -->
+</resources>
+
